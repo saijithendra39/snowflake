@@ -1,0 +1,6 @@
+emp_id,emp_name,hire_date,salary,dept
+101,john,1/2/2021,23000,IT
+102,smith,12/6/2020,26000,HR
+103,johnson,11/5/2021,33000,Finace
+104,john snow,10/10/2021,34000,Marketing
+105,paul,10/12/2021,16000,Sales
